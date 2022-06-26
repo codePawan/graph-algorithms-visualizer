@@ -182,7 +182,7 @@ export default class PathFinding extends Component {
       <>
         <NavBar />
         <div className="button-container">
-          <a href="/" className="btn btn-outline-danger me-3">
+          <a href="/index.html" onClick= "window.open('index.html', '_self');" className="btn btn-outline-danger me-3">
             Refresh
           </a>
           <button
