@@ -1,3 +1,5 @@
+# Can View this project on [Graph-algorithms](https://codepawan.github.io/graph-algorithms-visualizer/).
+This project helps users to understand working of Dijkistra's algorithm and as well as BFS, DFS algorithms
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
