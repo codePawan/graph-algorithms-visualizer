@@ -1,4 +1,4 @@
-# Can View this project on [Graph-algorithms](https://codepawan.github.io/graph-algorithms-visualizer/).
+# Can View this project on [Graph-algorithms](https://graph-algorithms-visualiser.netlify.app/).
 This project helps users to understand working of Dijkistra's algorithm and as well as BFS, DFS algorithms
 # Getting Started with Create React App
 
